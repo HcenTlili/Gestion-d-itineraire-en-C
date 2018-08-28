@@ -1,0 +1,53 @@
+# depslib dependency file v1.0
+1481753111 source:c:\users\asus x556u\desktop\test\main.c
+	<stdio.h>
+	<stdlib.h>
+	"ville.h"
+	"route.h"
+
+1480719871 c:\users\asus x556u\desktop\test\ville.h
+	<string.h>
+
+1481756257 c:\users\asus x556u\desktop\test\route.h
+	"ville.h"
+	"route.h"
+
+1480803155 source:c:\users\asus x556u\desktop\test\ville.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"ville.h"
+
+1481845052 source:c:\users\asus x556u\desktop\test\route.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	"route.h"
+	"ville.h"
+
+1481753111 source:c:\users\asus x556u\desktop\dossier projet tlili hcen wafa khachaa\version statique\main.c
+	<stdio.h>
+	<stdlib.h>
+	"ville.h"
+	"route.h"
+
+1480719871 c:\users\asus x556u\desktop\dossier projet tlili hcen wafa khachaa\version statique\ville.h
+	<string.h>
+
+1481756257 c:\users\asus x556u\desktop\dossier projet tlili hcen wafa khachaa\version statique\route.h
+	"ville.h"
+	"route.h"
+
+1481845052 source:c:\users\asus x556u\desktop\dossier projet tlili hcen wafa khachaa\version statique\route.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	"route.h"
+	"ville.h"
+
+1480803155 source:c:\users\asus x556u\desktop\dossier projet tlili hcen wafa khachaa\version statique\ville.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"ville.h"
+
